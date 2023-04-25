@@ -2,17 +2,17 @@
 <p align="left"> 
 Extensive Professional Experience in:
 
-• Full Stack Software Engineering and Architecture (API, Web and Mobile)
-• Web Services, Web APIs, WCF and REST
-• Cloud Architecture (Azure, AWS)
-• Security & Identity Management (AD, OAuth2 & OIDC, SAML, SCIM and SSO)
-• Third party API Integration
-• Web and Mobile Application Security
+• Full Stack Software Engineering and Architecture (API, Web and Mobile)<br />
+• Web Services, Web APIs, WCF and REST<br />
+• Cloud Architecture (Azure, AWS)<br />
+• Security & Identity Management (AD, OAuth2 & OIDC, SAML, SCIM and SSO)<br />
+• Third party API Integration<br />
+• Web and Mobile Application Security<br />
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitryalk&rank=S" alt="dmitryalk" /></a>
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/dmitryalk" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmitryalk" height="30" width="40" />
