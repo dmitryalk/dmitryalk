@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Dmitry</h1>
-<h3 align="center">Software Engineer/Architect</h3>
-<p align="left">
+<h3 align="left">Software Engineer/Architect</h3>
+<p align="left"> 
+Extensive Professional Experience in:
+
+• Full Stack Software Engineering and Architecture (API, Web and Mobile)
+• Web Services, Web APIs, WCF and REST
+• Cloud Architecture (Azure, AWS)
+• Security & Identity Management (AD, OAuth2 & OIDC, SAML, SCIM and SSO)
+• Third party API Integration
+• Web and Mobile Application Security
+</p>
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmitryalk&rank=S" alt="dmitryalk" /></a>
 </p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
     <a href="https://linkedin.com/in/dmitryalk" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmitryalk" height="30" width="40" />
     </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -62,4 +71,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
     </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitryalk&show_icons=true&locale=en&layout=compact" alt="dmitryalk" /></p>
